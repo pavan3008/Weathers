@@ -1,28 +1,19 @@
 {
-  "name": "weather-app",
+  "name": "weather",
   "version": "1.0.0",
-  "description": "Weather",
+  "description": "weather app",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node src/app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pavan3008/Weather.git"
+    "url": "git+https://github.com/pavan3008/Weathers.git"
   },
-  "keywords": [
-    "no"
-  ],
   "author": "Pavan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pavan3008/Weather/issues"
+    "url": "https://github.com/pavan3008/Weathers/issues"
   },
-  "homepage": "https://github.com/pavan3008/Weather#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "hbs": "^4.1.1",
-    "request": "^2.88.2"
-  }
+  "homepage": "https://github.com/pavan3008/Weathers#readme"
 }
